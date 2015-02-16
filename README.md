@@ -1,5 +1,5 @@
 # fly_excerpt
-Textpattern CMS Plugin - Restrict Article Categories for Sections in Write Panel
+Textpattern CMS Plugin - Truncate the Article Excerpt
 
 ### Changelog
 
