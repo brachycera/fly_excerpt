@@ -1,4 +1,4 @@
-# fw_excerpt
+# fly_excerpt
 Textpattern CMS Plugin - Restrict Article Categories for Sections in Write Panel
 
 ### Changelog
