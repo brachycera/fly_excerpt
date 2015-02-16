@@ -12,7 +12,7 @@
  * @author flyweb productions <www.flyweb.at>
  * @copyright 2015 flyweb productions
  * @license http://opensource.org/licenses/MIT - MIT License (MIT)
- * @version 1.1 <https://github.com/brachycera/fly_excerpt>
+ * @version 1.01 <https://github.com/brachycera/fly_excerpt>
  *
  */
 
@@ -52,7 +52,7 @@ function fly_excerpt($atts){
 
     ( ($link) ? $more = href( $more, permlinkurl($thisarticle), $class) : $more );
 
-	$excerpt = $thisarticle['excerpt'];
+	$excerpt = strip_tags( $thisarticle['excerpt'] );
 
 	$matches = preg_split( "/\s+/", $excerpt, $truncate + 1 );
 

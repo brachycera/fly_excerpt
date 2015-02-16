@@ -1,7 +1,7 @@
 <?php
 $plugin['name'] = 'fly_excerpt';
 $plugin['allow_html_help'] = 1;
-$plugin['version'] = '1.0';
+$plugin['version'] = '1.01';
 $plugin['author'] = 'Superfly';
 $plugin['author_uri'] = 'http://www.flyweb.at';
 $plugin['description'] = 'Truncate Article Excerpt';
@@ -14,7 +14,7 @@ $plugin['flags'] = '0';
  *
  * Textpattern CMS Plugin <www.textpattern.com>
  *
- * fw_excerpt.php
+ * fly_excerpt.php
  * Flyweb Article Excerpt Plugin
  *
  * This Plugin provides the <txp:fly_excerpt /> Tag for the Textpattern Frontend. It will output the
@@ -23,13 +23,13 @@ $plugin['flags'] = '0';
  * @author flyweb productions <www.flyweb.at>
  * @copyright 2015 flyweb productions
  * @license http://opensource.org/licenses/MIT - MIT License (MIT)
- * @version 1.1 <https://github.com/brachycera/fly_excerpt>
+ * @version 1.01 <https://github.com/brachycera/fly_excerpt>
  *
  */
 
 /*
  *
- * fw_excerpt - Trim article excerpt to given words
+ * fly_excerpt - Trim article excerpt to given words
  *
  * @param array $atts - num     $truncate - How many words should be truncated - Default: 10
  *                    	boolean $link - Show $more as HTML Link Values 0(no) or 1(yes) Default: 0
@@ -63,7 +63,7 @@ function fly_excerpt($atts){
 
     ( ($link) ? $more = href( $more, permlinkurl($thisarticle), $class) : $more );
 
-	$excerpt = $thisarticle['excerpt'];
+	$excerpt = strip_tags( $thisarticle['excerpt'] );
 
 	$matches = preg_split( "/\s+/", $excerpt, $truncate + 1 );
 
