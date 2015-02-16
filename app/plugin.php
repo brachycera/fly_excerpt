@@ -3,7 +3,7 @@
  *
  * Textpattern CMS Plugin <www.textpattern.com>
  *
- * fw_excerpt.php
+ * fly_excerpt.php
  * Flyweb Article Excerpt Plugin
  *
  * This Plugin provides the <txp:fly_excerpt /> Tag for the Textpattern Frontend. It will output the
@@ -18,7 +18,7 @@
 
 /*
  *
- * fw_excerpt - Trim article excerpt to given words
+ * fly_excerpt - Trim article excerpt to given words
  *
  * @param array $atts - num     $truncate - How many words should be truncated - Default: 10
  *                    	boolean $link - Show $more as HTML Link Values 0(no) or 1(yes) Default: 0
