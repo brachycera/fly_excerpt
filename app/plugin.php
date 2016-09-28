@@ -12,9 +12,14 @@
  * @author flyweb productions <www.flyweb.at>
  * @copyright 2015 flyweb productions
  * @license http://opensource.org/licenses/MIT - MIT License (MIT)
- * @version 1.01 <https://github.com/brachycera/fly_excerpt>
+ * @version 1.02 <https://github.com/brachycera/fly_excerpt>
  *
  */
+
+if (class_exists('\Textpattern\Tag\Registry')) {
+    Txp::get('\Textpattern\Tag\Registry')
+	->register('fly_excerpt');
+}
 
 /*
  *

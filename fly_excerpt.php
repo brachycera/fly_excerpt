@@ -1,7 +1,7 @@
 <?php
 $plugin['name'] = 'fly_excerpt';
 $plugin['allow_html_help'] = 1;
-$plugin['version'] = '1.01';
+$plugin['version'] = '1.02';
 $plugin['author'] = 'Superfly';
 $plugin['author_uri'] = 'http://www.flyweb.at';
 $plugin['description'] = 'Truncate Article Excerpt';
@@ -23,9 +23,14 @@ $plugin['flags'] = '0';
  * @author flyweb productions <www.flyweb.at>
  * @copyright 2015 flyweb productions
  * @license http://opensource.org/licenses/MIT - MIT License (MIT)
- * @version 1.01 <https://github.com/brachycera/fly_excerpt>
+ * @version 1.02 <https://github.com/brachycera/fly_excerpt>
  *
  */
+
+if (class_exists('\Textpattern\Tag\Registry')) {
+    Txp::get('\Textpattern\Tag\Registry')
+	->register('fly_excerpt');
+}
 
 /*
  *
@@ -86,17 +91,19 @@ if (0) {
 <!--
 # --- BEGIN PLUGIN HELP ---
 <h1>Excerpt Trunction</h1>
-<p>This Plugin can truncate the words shown from an article excerpt.</p>
+<p>This Plugin can truncate the words shown from an article excerpt - <a href="https://github.com/brachycera/fly_excerpt">https://github.com/brachycera/fly_excerpt</a></p>
 <h2>Usage</h2>
 <p>After installing you can use the <code>&lt;txp:fly_excerpt /&gt;</code> Tag.</p>
 <h3>Attributes</h3>
 <ul>
 <li><code>truncate</code> - How many words should be truncated - Default: 10</li>
 <li><code>more</code> - String to show User there is more content. Default: ...</li>
-<li><code>link</code> - Show "more" String as HTML Link. Values 0(no) or 1(yes). Default: 0</li>
-<li><code>class</code> - Optional HTML Class Name for "more" String Link</li>
+<li><code>link</code> - Show "more" string as HTML Link. Values 0(no) or 1(yes). Default: 0</li>
+<li><code>class</code> - Optional HTML Class Name for "more" string Link</li>
 </ul>
 <h2>Changelog</h2>
+<p><strong>Version 1.0.2</strong> Added register for fly_excerpt Tag <code>->register('fly_excerpt')</code> for compatibility to Textpattern Ver. 4.6.0 -  27. Sept. 2016</p>
+<p><strong>Version 1.0.1</strong> Bugfix for Excerpt with HTML Code - 16. Feb. 2015</p>
 <p><strong>Version 1.0</strong> Initial release -  16. Feb. 2015</p>
 <br><br><br><br><br><hr><p align="center"><small>This Plugin was made by <a href="http://www.flyweb.at"> flyweb Productions</a>.</small></p>
 # --- END PLUGIN HELP ---

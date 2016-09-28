@@ -1,0 +1,40 @@
+# Name: fly_excerpt v1.02 (compressed)
+# Type: Public plugin
+# Truncate Article Excerpt
+# Author: Superfly
+# URL: http://www.flyweb.at
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA51XbW/bRgz+7AD5D4QQVHJrS5aTuKkia8u6FS3QbsXi9kszBGf5JB0qS8Lp
+VMco+t/He9GLm6ToZsCORB7J5/jweAwJfD/4WgdngVWQLbUuaymwknx/S+9iyishRYvAIo3I
+Si5fLgLruqkoxzVq+axV3jacSckcJZkQVeB5u93OxXU7unaJ8vQ8sL5QXrOykG8Y1Xdn8zbq
+htYxZ5Uw2jmqV7wpYiIoXHHB4pzCHz0qVMflRmO+eIGevadPj49AfWFF70RFhKC8gJfvruF9
+3qSsgFAiEr3Ojctt1Bklu3bXbpVVSvRKof8+vHHXR8tY3YaoePmF4VZAZBRCcVcFg2yCF8GK
+pJCUXOmHMF/xshC02LjwRsCO5TmUjagaIReqKAbEtAWxK/kGw5gUbUCUymfKvtACroTgbN1g
+6opmu6bc7cD+qukCTYzEu2limfRap6cjLNLL47Lac5ZmAuYz//wBM70sZzEtagqG+rLCt7Lh
+MXVLnnpGW3vv3qxgCvL3rTFw8GWsfZjaAN/1IZSOavSUMpE1a8mUt+Ykzva4e+INktoR6B0f
+HR+xBJw4J3WNalaL2rFvBlm+wezf/E1T1PC9PR7DVzTEzwp5ClIqfrj6+Gg0jbh6pdyxBxDs
+8eXx0TcZ3utrcMj7FFacbYGYOmrFSJmmS3HZU1QRTuRqTvZwglhqdIA8SqRw0jKOstflDrak
+2JtaqLOyyTewpoOqmMLvNCFNLgLwZ8r7A5/RuixzSgo4yVnxGW2uM/R8si05BVLD69W7t8gX
+aj6SvMHanjlFOQYsIt/Z03rch3g0Aowwh6xIwXjFEPodU1DLYB9qqs4E6vAwqTWxOhDC7d27
+rvtoAOgCKPoxwl+ql5Bc43+ppH9im1PHT8OQm9Ip51Q0eAqNkxPD0KC0Esyo9Dfk1VHkjL9K
+5kdpXq4x2InAbmCIvlQKLCgsXOHg4yjHg1mrp5GiVz+O7JYwG5YR2PbEiNVWbL2/A4VEb+SH
+CknggQLlhoHxpH9WwKWJrOqxwokPDtBtJfZOV2Nj+GVQcEssIQgGAm3Ymym4ykZzELQPS7BB
+PS0tG9xW6oKNr987kVtTPhRDaIms29KVeter5R4ccFS5DtdmnCaOfpsA3lJbuaDhuTNkZTyB
+Fumh11FLO3qShVDdCpLWzgGln+z2zP/TWW2JiDMqd1lhe7itq5wJByzvpn7mWZOumCaDzD0D
+vzPXh3eJ9d4UQqI37oxedjQwi6Jh8kHX3ajBNjqw+2TWTsHvII5MebNtleOl6dhgTzqDsSQC
+FC8yGdpCdbPWrN2BUn0zt6/YV/r2DayZ/HseWBiXciM7N7IkxxwO16FpRvNKX/sLlIaZH7WX
+mrrx5TELPZQehVU0vFxjbFHd/uVl1/W9HZ5LXmLPLO412SmERBXG0vrpO8WKfnpp6JEo9CrE
+ms2jDzVJKUKfK+hXCV4UwIpakDyXbWVfNmoPTa3hh3KCiZ7k4vLeoPAkFZehp/RyZHBNiNOo
+u9lrjHOKsibHn5xF2lmbntb2v18SId7WQ4+yJnpv/7Ntf+9UnsuBU+nKktZWG2B47biP3DuD
+EPdQqwPeR/jhXXAY+a2Cprx5KrfI5suMFCnNy7TjNsQGURZp9LGbWWbuPPSMFK42G8xrOyyo
+KEN65RCocT46UbTYpSlWH44kbM2wsexl7oeDIyJw4cxduDPcJ8yfu3BNcYSV49pCV83DaP0e
+7W9NmrA7FaqbLrHuTbIQhmwmCxde4WCoxsAf+O29vimYYJhyTnG2qKWPh5yseXTvm+G3ApKz
+tFhaOCbiPi2MtcVjdNAPdlglW4Lw1vvDQ37vn4+oHVzf94OrPLlYmNqtBCNb0mlgbTeqd53O
+A+v0IqbJLEkW5Ox88WKxfr6Y+WcXsb/xzxISL86sy2//AiP06dZEDQAA
