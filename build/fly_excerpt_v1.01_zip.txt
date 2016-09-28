@@ -1,0 +1,37 @@
+# Name: fly_excerpt v1.01 (compressed)
+# Type: Public plugin
+# Truncate Article Excerpt
+# Author: Superfly
+# URL: http://www.flyweb.at
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA51WbW/bNhD+7AD9DwchqOTWkSy7SVpFVld0C1qg3Qo07ZduCGiZloRRokBS
+dY2i/33HF8lymgzYDNgW7+W54z1HnkgSx8l3mTxLvIbU1LuSWuBt2f6WfsupaJUWXSQe6VTJ
+hV48T7yPXUsF2hjzea+87USlJQuUlEq1SRTtdrsQ7XZ0HRKDdJl4X6mQFW/0CqPG4Tzuo26o
+zEXVKqddoPpGdE1OFIVXQlU5o/DbIStU53xjc768eJF40ZMnj07AfOGGflMtUYqKBl6//wgf
+WFdUDaQ6I3XQhTmvs8Fpu+t3HbZla0TXJvu74R3cIVpZyT5EK/jXCrcCqqSQqm9tMqomRBnc
+kAK2XBj9OM1rwRtFm00IbxXsKsaAd6rtlDY0UVwSZ30SOy42GMaVaAOKG8yi+kobeKWUqNYd
+lq7p6jUV4ZDsL5YusMTofDddrosubXkGwjJrnvN2L6qiVLCYx+f3uFkzVuW0kRQc9bzFFe9E
+TkMuishpZfT+7Q2cgf595xwCXEwthusNiMMYUg0kEamoVNmtNVPRWpC83OPuSTQq6kBg9Ojk
+0Un05B4+MeSNqGogjsdejCWz5TK1PJSoJYJoa0H2cIr8SATAOoL+nPYVR9kbvoOaNHvHhSx5
+xzawpiNWzuBXuiUdUwnEc4N+z2ey5pxR0sApq5q/0edjicinNRcUiIQ3N+/fYb1Q85mwDntr
+HjR8CkhiHOypnB5CPBgBJhIboinAoWIIu8YSSB3sk6SmJ1GHzWxsctOQKjzAh2H4YAAYAuSM
+SF2xP8xZJszm/9pIf8drxrS/TUNvypZcUNXhKXAgp46hEbVbrKjGgxH1gSFn+l0TPykYX2Ow
+U4Wn0RF9ZRR4yLBxVICPE4YHQ5qniaHXPk78njAfVhn4/syJzVZ8u78jhc7eyY8VmsAjBcod
+A9PZ4dkkrl2w9SdTkyc+BEDrVu2Docem8HLUcCtsIUhGAut4cDPpGh/LQdI/rMAH87TyfAh7
+aQg+Lu+C6K0ZDMMQeiLrvoYya2ut9xBAYNp1bFsKug3sagY4JWpt0AkWjFmZzqDP9Bh10tOO
+SLoR2ltFChkcUfrFdzb+X4NXTVReUr3LVtDiVrasUgF40Z/yaeTNhmaajSr3FOLB3R7eFfZ7
+1yidvYNz+mqLW3VG2bj4YPtu0uE1NvL74mzPIB5SnLj2ruqW4dAKfPBng8NUEwGGF10M6/HD
+/Dq3fgdG9cNNP7Vv7fRLvLn+P088jEuFk5072ZZhDcd26FpS1pphPsdhnZZx1s8UM3D1KUsj
+lJ6kbTaebTneUMP29awZrr0dHkvB8cps7t6xYRq1CFQusk+SFBRxFwb31RanHlSNVIQxfeT3
+vDMBOmmxUz3ds8dMXf00RB8X6iqNjF6P0z7EMhumnsQ4S5R1DH9YlVmwPvfe979f4ClOsjGi
+5uuA9j+v1Lug+syMQDWUp729PsB4JIQPzIRRiJ+yNofvEOFf7+njyO9MagYtMrVFNl+XpCko
+48XAbYqHlzdF9nmY55iCk8HbplIVBhMUJ57UkwjiixCu8Z3DvGFYMtci++lb4rcFwqqiWXn4
+8oAN5GGsGhvoqE13WJ+abCis95AScyet7n8lzfrXmQ+H15k0IhlSYmF1MvqgLBOv3pgTtVwk
+Hn1G4+X2xeZyefH8fLlcXG7ybU62dH2eL1/kee5d/fgHQZ9myFoLAAA=
